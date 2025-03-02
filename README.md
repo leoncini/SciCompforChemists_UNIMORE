@@ -1,5 +1,7 @@
 # Scientific Computing for Chemists with Python
 
+Di seguito il contenuto del file originale README.md. Gli studenti del Corso di Laurea in Chimica sono invitati a prendere inizialmente visione del notebook **chap_00_nota_UNIMORE.ipynb**
+
 ### An Introduction to Programming in Python with Chemical Applications
 
 
