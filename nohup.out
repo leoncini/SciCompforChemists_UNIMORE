@@ -285,3 +285,7 @@
 [I 2025-03-03 10:29:22.797 ServerApp] 302 POST /login? (c5536631a65649a69337e4945cdc901e@127.0.0.1) 19.38ms
 [I 2025-03-03 10:29:53.863 ServerApp] Kernel started: 7d55c0da-76a8-45a9-b3e9-b91552eb6f10
 [I 2025-03-03 10:29:54.217 ServerApp] Connecting to kernel 7d55c0da-76a8-45a9-b3e9-b91552eb6f10.
+[I 2025-03-03 12:02:45.264 ServerApp] Kernel started: 671909e7-cc6a-4a73-8952-fed562d6e25c
+[I 2025-03-03 12:02:45.709 ServerApp] Connecting to kernel 671909e7-cc6a-4a73-8952-fed562d6e25c.
+[W 2025-03-03 12:02:46.364 ServerApp] 404 GET /nbextensions/jupyter-js-widgets/extension.js (@127.0.0.1) 1.29ms referer=None
+[W 2025-03-03 12:02:46.365 ServerApp] 404 GET /nbextensions/jupyter-js-widgets/extension.js (@127.0.0.1) 0.59ms referer=None
